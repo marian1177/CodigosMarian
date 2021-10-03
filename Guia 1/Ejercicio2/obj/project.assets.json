@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USURIO\\Documents\\Facu\\Estructura de datos\\CodigosMarian\\Guia 1\\Ejercicio1\\Ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\USURIO\\Documents\\Facu\\Estructura de datos\\CodigosMarian\\Guia 1\\Ejercicio2\\Ejercicio2.csproj",
       "projectName": "Ejercicio2",
-      "projectPath": "C:\\Users\\USURIO\\Documents\\Facu\\Estructura de datos\\CodigosMarian\\Guia 1\\Ejercicio1\\Ejercicio2.csproj",
+      "projectPath": "C:\\Users\\USURIO\\Documents\\Facu\\Estructura de datos\\CodigosMarian\\Guia 1\\Ejercicio2\\Ejercicio2.csproj",
       "packagesPath": "C:\\Users\\USURIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USURIO\\Documents\\Facu\\Estructura de datos\\CodigosMarian\\Guia 1\\Ejercicio1\\obj\\",
+      "outputPath": "C:\\Users\\USURIO\\Documents\\Facu\\Estructura de datos\\CodigosMarian\\Guia 1\\Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
