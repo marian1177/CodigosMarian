@@ -10,6 +10,8 @@ namespace Ejercicio3
             /*Crea un programa que pida frases al usuario, hasta que introduzca una frase vacía. En ese
             momento, mostrará todas las frases que se habían introducido.*/
 
+            //primera forma usando pila, sale al reves por metodo LIFO
+
             /*
             Stack mipila = new Stack();
             string frases;
@@ -33,6 +35,9 @@ namespace Ejercicio3
             }
 
             */
+
+            //segunda forma usando queue porque sale en orden FIFO
+
             Queue micola = new Queue();
             string frases;
             int contador = 0;
