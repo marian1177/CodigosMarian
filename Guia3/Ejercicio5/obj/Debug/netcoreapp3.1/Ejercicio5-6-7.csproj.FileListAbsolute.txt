@@ -1,0 +1,14 @@
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5-6-7.exe
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5-6-7.deps.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5-6-7.runtimeconfig.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5-6-7.runtimeconfig.dev.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5-6-7.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5-6-7.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.csproj.AssemblyReference.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.AssemblyInfoInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.AssemblyInfo.cs
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Guia3\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5-6-7.genruntimeconfig.cache
