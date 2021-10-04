@@ -6,6 +6,10 @@ namespace Ejercicio2
     {
         static void Main(string[] args)
         {
+
+            /*Crea una función "Menor" que calcule el menor de dos números enteros que
+            recibirá como parámetros. El resultado será otro número entero.*/
+
             int n1, n2;
             Console.WriteLine("escriba un numero ");
             n1 = Convert.ToInt32(Console.ReadLine());

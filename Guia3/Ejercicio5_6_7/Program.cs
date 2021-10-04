@@ -6,6 +6,16 @@ namespace Ejercicio5_6_7
     {
         static void Main(string[] args)
         {
+            /*Crea una calculadora básica, llamada "calcula", que deberá sumar, restar,
+            multiplicar o dividir los dos números que se le indiquen como parámetros. Ejemplos de
+            su uso sería "calcula 2 + 3" o "calcula 5 * 60". (Utilice Funciones).
+            Ejercicio 6: Crea una función "SumaCifras" que reciba un numero cualquiera y que
+            devuelva como resultado la suma de sus dígitos. Por ejemplo, si el número fuera 123 la
+            suma sería 6.
+            Ejercicio 7: Crea una función "Triángulo" que reciba una letra y un número, y
+            escriba un "triángulo" formado por esa letra, que tenga como anchura inicial la que se
+            ha indicado*/
+
             Console.WriteLine("Bienvenido a la Super Calculadora");
             Console.WriteLine("Elige una de las opciones");
             Console.WriteLine(".Opción 1 - Suma/Resta/Multiplicacion/Division");
