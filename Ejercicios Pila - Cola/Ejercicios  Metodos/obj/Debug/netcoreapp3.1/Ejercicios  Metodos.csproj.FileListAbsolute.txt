@@ -1,0 +1,14 @@
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\bin\Debug\netcoreapp3.1\Ejercicios  Metodos.exe
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\bin\Debug\netcoreapp3.1\Ejercicios  Metodos.deps.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\bin\Debug\netcoreapp3.1\Ejercicios  Metodos.runtimeconfig.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\bin\Debug\netcoreapp3.1\Ejercicios  Metodos.runtimeconfig.dev.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\bin\Debug\netcoreapp3.1\Ejercicios  Metodos.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\bin\Debug\netcoreapp3.1\Ejercicios  Metodos.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.csproj.AssemblyReference.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.AssemblyInfoInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.AssemblyInfo.cs
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\Ejercicios  Metodos\obj\Debug\netcoreapp3.1\Ejercicios  Metodos.genruntimeconfig.cache
