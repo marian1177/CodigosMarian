@@ -1,0 +1,14 @@
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\bin\Debug\netcoreapp3.1\practika.exe
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\bin\Debug\netcoreapp3.1\practika.deps.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\bin\Debug\netcoreapp3.1\practika.runtimeconfig.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\bin\Debug\netcoreapp3.1\practika.runtimeconfig.dev.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\bin\Debug\netcoreapp3.1\practika.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\bin\Debug\netcoreapp3.1\practika.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.csproj.AssemblyReference.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.AssemblyInfoInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.AssemblyInfo.cs
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Ejercicios Pila - Cola\practika\obj\Debug\netcoreapp3.1\practika.genruntimeconfig.cache

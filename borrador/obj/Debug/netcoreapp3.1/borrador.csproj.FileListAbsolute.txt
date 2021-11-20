@@ -1,0 +1,14 @@
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\bin\Debug\netcoreapp3.1\borrador.exe
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\bin\Debug\netcoreapp3.1\borrador.deps.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\bin\Debug\netcoreapp3.1\borrador.runtimeconfig.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\bin\Debug\netcoreapp3.1\borrador.runtimeconfig.dev.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\bin\Debug\netcoreapp3.1\borrador.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\bin\Debug\netcoreapp3.1\borrador.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.csproj.AssemblyReference.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.AssemblyInfoInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.AssemblyInfo.cs
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\borrador\obj\Debug\netcoreapp3.1\borrador.genruntimeconfig.cache

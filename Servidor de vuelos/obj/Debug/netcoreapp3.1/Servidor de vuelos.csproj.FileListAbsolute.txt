@@ -1,0 +1,14 @@
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\bin\Debug\netcoreapp3.1\Servidor de vuelos.exe
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\bin\Debug\netcoreapp3.1\Servidor de vuelos.deps.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\bin\Debug\netcoreapp3.1\Servidor de vuelos.runtimeconfig.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\bin\Debug\netcoreapp3.1\Servidor de vuelos.runtimeconfig.dev.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\bin\Debug\netcoreapp3.1\Servidor de vuelos.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\bin\Debug\netcoreapp3.1\Servidor de vuelos.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.csproj.AssemblyReference.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.AssemblyInfoInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.AssemblyInfo.cs
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Servidor de vuelos\obj\Debug\netcoreapp3.1\Servidor de vuelos.genruntimeconfig.cache
