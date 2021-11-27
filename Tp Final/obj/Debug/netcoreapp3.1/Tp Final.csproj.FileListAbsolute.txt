@@ -1,0 +1,14 @@
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\bin\Debug\netcoreapp3.1\Tp Final.exe
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\bin\Debug\netcoreapp3.1\Tp Final.deps.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\bin\Debug\netcoreapp3.1\Tp Final.runtimeconfig.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\bin\Debug\netcoreapp3.1\Tp Final.runtimeconfig.dev.json
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\bin\Debug\netcoreapp3.1\Tp Final.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\bin\Debug\netcoreapp3.1\Tp Final.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.csproj.AssemblyReference.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.AssemblyInfoInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.AssemblyInfo.cs
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.csproj.CoreCompileInputs.cache
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.dll
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.pdb
+C:\Users\USURIO\Documents\Facu\Estructura de datos\CodigosMarian\Tp Final\obj\Debug\netcoreapp3.1\Tp Final.genruntimeconfig.cache
