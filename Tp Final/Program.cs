@@ -122,7 +122,7 @@ namespace Tp_Final
 
                                         pedido_individual.Enqueue(ingreso);  //vinculación de los ingresos del usuario a cada dato de la Cola
                                         total = pedido_individual.Count;    //variable que determina el limite de ingresos
-                                        if (total == 8)
+                                        if (total == 9)
                                         {
                                             Console.WriteLine("                   Se cumplieron las 8hr. Se termino el turno.");
                                             break;
