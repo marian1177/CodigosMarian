@@ -100,7 +100,7 @@ namespace Tp_Final
 
                             if (dia == "lunes" || dia == "martes" || dia == "miércoles" || dia == "jueves" || dia == "viernes")
                             {
-                                horas_laborables = 8; 
+                                horas_laborables = 9; 
 
                                 for (int i = 1; i < horas_laborables;)     //Bucle que pide ingreso de datos/nro de pedidos al usuario
                                 {
@@ -122,7 +122,7 @@ namespace Tp_Final
 
                                         pedido_individual.Enqueue(ingreso);  //vinculación de los ingresos del usuario a cada dato de la Cola
                                         total = pedido_individual.Count;    //variable que determina el limite de ingresos
-                                        if (total == 9)
+                                        if (total == 8)
                                         {
                                             Console.WriteLine("                   Se cumplieron las 8hr. Se termino el turno.");
                                             break;
