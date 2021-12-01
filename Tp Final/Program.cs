@@ -98,9 +98,9 @@ namespace Tp_Final
                         if (opcion_2 == "s" || opcion_2 == "S") 
                         {
 
-                            if (dia == "lunes" || dia == "martes" || dia == "miercoles" || dia == "jueves" || dia == "viernes")
+                            if (dia == "lunes" || dia == "martes" || dia == "miércoles" || dia == "jueves" || dia == "viernes")
                             {
-                                horas_laborables = 9; 
+                                horas_laborables = 8; 
 
                                 for (int i = 1; i < horas_laborables;)     //Bucle que pide ingreso de datos/nro de pedidos al usuario
                                 {
